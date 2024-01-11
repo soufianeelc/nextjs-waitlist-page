@@ -13,15 +13,17 @@ A ready-to-use Next.js wait list page that helps you capturing potential custome
 ## Getting Started
 
 - Clone this repository
+
   ```bash
   git clone git@github.com:Soufianeelc/nextjs-waitlist-page.git
   ```
 
-````
 - Install dependencies
   ```bash
   pnpm install
-````
+  ```
+
+```
 
 ## Deployment
 
@@ -34,3 +36,4 @@ If you encounter any issues during this process, please don't hesitate to contac
 If you appreciate my work, you can show your support by [buying me a coffee](https://www.buymeacoffee.com/soufianeelc). Your contribution helps keep the momentum going and fuels the creation of more content.
 
 Thank you for your generosity! ☕
+```
