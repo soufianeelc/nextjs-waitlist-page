@@ -36,4 +36,3 @@ If you encounter any issues during this process, please don't hesitate to contac
 If you appreciate my work, you can show your support by [buying me a coffee](https://www.buymeacoffee.com/soufianeelc). Your contribution helps keep the momentum going and fuels the creation of more content.
 
 Thank you for your generosity! ☕
-```
