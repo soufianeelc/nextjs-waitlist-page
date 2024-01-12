@@ -23,7 +23,6 @@ A ready-to-use Next.js wait list page that helps you capturing potential custome
   pnpm install
   ```
 
-```
 
 ## Deployment
 
