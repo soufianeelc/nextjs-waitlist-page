@@ -15,7 +15,7 @@ A ready-to-use Next.js wait list page that helps you capturing potential custome
 - Clone this repository
 
   ```bash
-  git clone git@github.com:Soufianeelc/nextjs-waitlist-page.git
+  git clone git@github.com:soufianeelc/nextjs-waitlist-page.git
   ```
 
 - Install dependencies
